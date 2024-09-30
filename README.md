@@ -1,2 +1,2 @@
 # Practice-Basic-SQL-Queries
-Practice some SQL queries on mysql workbench on employee database.
+Practice some SQL queries on mysql workbench on employees database.
